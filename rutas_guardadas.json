@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "CISTERNA 3",
+        "texto": "Origen: ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nParada 1: DAIMIEL, CIUDAD REAL\nParada 2: MORA, TOLEDO\nParada 3: GETAFE, MADRID\nDestino: ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nDistancia total: 425.45 km, Tiempo estimado: 329 min"
+    },
+    {
+        "nombre": "CISTERNA 2",
+        "texto": "Origen: ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nParada 1: DAIMIEL, CIUDAD REAL\nParada 2: MORA, TOLEDO\nParada 3: GETAFE, MADRID\nDestino: ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nDistancia total: 425.45 km, Tiempo estimado: 329 min"
+    },
+    {
+        "nombre": "prueba mil",
+        "texto": "Origen: 13440 ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nParada 1: 02600 VILLARROBLEDO, ALBACETE\nParada 2: 02006 ALBACETE, ALBACETE\nParada 3: 12550 ALMAZORA, CASTELLON\nDestino: 13440 ARGAMASILLA DE CALATRAVA, CIUDAD REAL\nDistancia total: 923.39 km, Tiempo estimado: 627 min"
+    }
+]
