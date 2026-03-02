@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import requests
 import math
@@ -97,4 +97,5 @@ if st.button("🚀 Calcular Ruta"):
                     st.markdown(f"[🌍 Abrir en Google Maps]({url})")
                 else:
                     st.error("No se pudo calcular la ruta")
+
 
