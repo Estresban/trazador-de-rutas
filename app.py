@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import requests
 import math
@@ -43,3 +43,4 @@ if st.button("Calcular Ruta"):
             if distancia:
                 st.success(f"Distancia: {distancia:.2f} km")
                 st.success(f"Tiempo estimado: {tiempo:.0f} min")
+
